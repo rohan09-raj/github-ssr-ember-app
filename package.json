@@ -62,10 +62,17 @@
     "qunit-dom": "^2.0.0",
     "webpack": "^5.70.0"
   },
+  "fastbootDependencies": [
+    "rsvp",
+    "path"
+  ],
   "engines": {
     "node": "12.* || 14.* || >= 16"
   },
   "ember": {
     "edition": "octane"
+  },
+  "dependencies": {
+    "fastboot-app-server": "^3.3.0"
   }
 }
