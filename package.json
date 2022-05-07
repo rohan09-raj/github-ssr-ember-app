@@ -6,7 +6,6 @@
   "repository": "",
   "license": "MIT",
   "author": "",
-  "type": "commonjs",
   "directories": {
     "doc": "doc",
     "test": "tests"
