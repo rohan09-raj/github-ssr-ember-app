@@ -2,7 +2,7 @@
   "name": "github-ssr-ember-app",
   "version": "0.0.0",
   "private": true,
-  "type": "module",
+  "type": "commonjs",
   "description": "Small description for github-ssr-ember-app goes here",
   "repository": "",
   "license": "MIT",
