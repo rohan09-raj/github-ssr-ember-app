@@ -73,6 +73,7 @@
     "edition": "octane"
   },
   "dependencies": {
+    "abortcontroller-polyfill": "^1.7.3",
     "fastboot-app-server": "^3.3.0"
   }
 }
