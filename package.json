@@ -76,6 +76,6 @@
   "dependencies": {
     "abortcontroller-polyfill": "^1.7.3",
     "fastboot-app-server": "^3.3.0",
-    "node-fetch": "^3.2.4"
+    "node-fetch": "2.6.6"
   }
 }
