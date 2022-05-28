@@ -3,7 +3,7 @@ const FastBootAppServer = require('fastboot-app-server');
 const MY_GLOBAL = 'MY GLOBAL';
 
 let server = new FastBootAppServer({
-  distPath: 'dist',
+  distPath: 'dist/',
   gzip: true, // Optional - Enables gzip compression.
   buildSandboxGlobals(defaultGlobals) {
     // Optional - Make values available to the Ember app running in the FastBoot server, e.g. "MY_GLOBAL" will be available as "GLOBAL_VALUE"
